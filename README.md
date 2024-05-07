@@ -1,4 +1,4 @@
-# Deep Coding for Linear Block Error Correction
+# Learning Linear Block Error Correction Codes
 
 Implementation of the End-to-end deep codes Error Correction Code Transformer described in ["Learning Linear Block Error Correction Codes (ICML 2024)"]().
 
