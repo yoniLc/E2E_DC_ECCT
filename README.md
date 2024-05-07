@@ -16,5 +16,3 @@ Use the following command to train a toy example. Every modification can be perf
 
 `python E2E_DC_ECCT.py`
 
-## License
-This repo is MIT licensed.
