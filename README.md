@@ -1,6 +1,6 @@
 # Learning Linear Block Error Correction Codes
 
-Implementation of the End-to-end deep codes Error Correction Code Transformer described in ["Learning Linear Block Error Correction Codes (ICML 2024)"]().
+Implementation of the End-to-end deep codes Error Correction Code Transformer described in ["Learning Linear Block Error Correction Codes (ICML 2024)"](https://arxiv.org/abs/2405.04050).
 
 The decoder implementation is related to the Foundation Error Correction Codes model published in ["A Foundation Model for Error Correction Codes (ICLR 2024)"](https://openreview.net/forum?id=7KDuQPrAF3) 
 
